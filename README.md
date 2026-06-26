@@ -22,8 +22,13 @@
   <img alt="Vini-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Vini-Postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="Vini-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Volkswagen" height="70" width="88" src="https://raw.githubusercontent.com/ViniciusBorsatti/ViniciusBorsatti/main/assets/Jetta-removebg-preview.png">
-  <img alt="Inter" height="40" width="50" src="https://raw.githubusercontent.com/ViniciusBorsatti/ViniciusBorsatti/main/assets/inter-removebg-preview.png">
+</div>
+
+<br>
+
+<div align="center">
+  <img alt="Volkswagen" height="90" src="https://raw.githubusercontent.com/ViniciusBorsatti/ViniciusBorsatti/main/assets/Jetta-removebg-preview.png">
+  <img alt="Inter" height="90" src="https://raw.githubusercontent.com/ViniciusBorsatti/ViniciusBorsatti/main/assets/inter-removebg-preview.png">
 </div>
 
 <br>
